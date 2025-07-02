@@ -4,14 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Logs and runtime files
-logs/
-*.log
-
-# Output data
-/output/
-output/
-
 # Environments
 .env
 .venv
