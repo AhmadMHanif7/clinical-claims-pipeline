@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and runtime files
+logs/
+*.log
+
+# Output data
+/output/
+output/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter / Mac
+.ipynb_checkpoints/
+.DS_Store
